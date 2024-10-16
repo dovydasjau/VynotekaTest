@@ -116,6 +116,7 @@ public class test {
 
 
 //        driver.close(); // closing the app
+        //fixing app
     }
 
     public static String generateRandomEmail() {
